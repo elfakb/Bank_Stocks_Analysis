@@ -1,20 +1,27 @@
-# Bank_Stocks_Analysis
-This project analyzes major US banks' stock prices and returns using Python. 
+#Bank_Stocks_Analysis
 
-It includes:
+This project analyzes major US banks' stock prices and returns using Python. The analysis covers historical stock data, calculates returns, examines volatility, and visualizes trends and correlations among the banks.
 
-- Data download using Yahoo Finance (`yfinance`).
-- Daily returns and cumulative returns calculation.
-- Rolling statistics (mean, standard deviation).
-- Visualization using `matplotlib`, `seaborn`.
+#Features
 
-## Banks Included
-- Bank of America (BAC)
-- CitiGroup (C)
-- Goldman Sachs (GS)
-- JPMorgan Chase (JPM)
-- Morgan Stanley (MS)
-- Wells Fargo (WFC)
+Data Download: Historical stock prices (Open, High, Low, Close, Volume) downloaded from Yahoo Finance using yfinance.
+
+Daily Returns: Calculate day-to-day percentage changes for each bank's stock.
+
+Cumulative Returns: Measure how a hypothetical investment grows over time.
+
+Rolling Statistics: Compute rolling mean and rolling standard deviation over a 30-day window to understand volatility.
+
+Libraries Used: pandas, numpy, matplotlib, seaborn, yfinance.
+
+Banks Included & Ticker Symbols
+Bank Name	Ticker Symbol
+Bank of America	BAC
+CitiGroup	C
+Goldman Sachs	GS
+JPMorgan Chase	JPM
+Morgan Stanley	MS
+Wells Fargo	WFC
 
 # Rolling Mean of Bank Stock Returns
 <img width="2182" height="878" alt="image" src="https://github.com/user-attachments/assets/972dbc67-2a77-44f7-ba35-a3800d0a29af" />
