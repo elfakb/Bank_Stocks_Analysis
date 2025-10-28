@@ -17,7 +17,9 @@ It includes:
 - Wells Fargo (WFC)
 
 # Rolling Mean of Bank Stock Returns
-![Rolling Mean](Ekran Resmi 2025-10-28 21.56.46.png)
+<img width="2182" height="878" alt="image" src="https://github.com/user-attachments/assets/972dbc67-2a77-44f7-ba35-a3800d0a29af" />
+
 
 # Cumulative Returns of Banks
-![Cumulative Returns](cumulative_returns.png)
+<img width="2182" height="878" alt="image" src="https://github.com/user-attachments/assets/0ff036e3-16c8-4ed4-a818-76d53fe0169d" />
+
